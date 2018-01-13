@@ -1,3 +1,10 @@
+/**
+ *
+ * @author: Prithviraj Deshmane
+ *
+**/
+
+
 import java.util.ArrayList;
 
 public class MergeSort {
